@@ -10,7 +10,7 @@
  3. Perform arithmetic operations on two numbers in a function. The argument will accept 3 values (number, number, operations). The operations will be (add, subtract, multiply, divide, modulus). Except for these 5 operations, The Result is "invalid Operations". The Function name will be, evalNumbers();
 
 ### Problem-04
- 4. Write a function that will sort (ascending) three numbers. The argument will accept 3 values. The Function name will be, sortNumbers().
+ 4. Write a function that will check the largest of three numbers. The argument will accept 3 values. The Function name will be, findLargest().
 
 
 ## assignment-04-JS-Basic-Problem-Solving (বাংলা ভার্সন)
@@ -25,5 +25,5 @@
  3. এমন একটা ফাংশন বানান, যেটা আরগুমেনট হিসেবে ৩টা ডাটা রিসিভ করবে। প্রথম ডাটা একটা নাম্বার, দ্বিতীয় ডাটা একটা নাম্বার। এবং তৃতীয় ডাটা একটা অপারেশন। অপারেশন গুলো হলো (add, subtract, multiply, divide, modulus)। অপারেশন add হলে প্রথম আর দ্বিতীয় ডাটা যোগ করে দেখাবে, এভাবে ৫টা অপারেশন পারফর্ম করতে হবে। আর আই ৫টার বাইরে হলে,"invalid Operations" দেখাবে।ওই ফাংশনের নাম হবে, evalNumbers().  
     
 ### টাস্ক-০৪ 
- 4. এমন একটা ফাংশন বানান, যেটা আরগুমেনট হিসেবে ৩টা ডাটা রিসিভ করবে। এবং ওই ৩টা ডাটা ছোট থেকে বড় দেখাবে। আমি আর্গুমেন্টে যদি ৪০,১৫,৩০ দি, তারপরও ছোট থেকে বড় যথাক্রমেঃ ১৫।, ৩০, ৪০ দেখাবে। ওই ফাংশনের নাম হবে, sortNumbers().
+ 4. এমন একটা ফাংশন বানান, যেটা আরগুমেনট হিসেবে ৩টা ডাটা রিসিভ করবে। এবং ওই ৩টা ডাটা থেকে সবথেকে বড় ডাটা দেখাবে। যদি, আমি আর্গুমেন্টে ৪০,১৫,৩০ দি, তাখন শুধু ৪০ দেখাবে। ওই ফাংশনের নাম হবে, findLargest().
  
